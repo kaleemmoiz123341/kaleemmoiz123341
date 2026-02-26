@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hi I'm Muhammad Abdul Moiz
 <!--
 **kaleemmoiz123341/kaleemmoiz123341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
 🚀 I’m currently trying to build full-stack applications using the MERN stack  <br>🌱 Exploring real-time systems with Socket.IO  <br>🧠 Learning backend architecture with NestJS & TypeScript  <br>🤝 Open to collaborating on scalable web and real-time projects  <br>💬 Ask me about MERN, authentication systems, and REST APIs  
 
 
